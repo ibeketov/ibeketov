@@ -1,9 +1,9 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilya 
+# Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ilya 
 
+* 🌍  Based in Berlin, Germany
+* 🏢  Working as IT Architect at Bayer
 
-## IT Solution and Integration Architect 
-
-In my role as an IT Architect I am responsible for designing, describing, and managing the solution, providing guidance to the business and internal teams, including, but not limited to, EA principles and strategy, integration and architecture standards and best practices. Moreover, I'm serving as an API and integration evangelist, educating internal teams of all sizes on the value of APIs and integration best practices.  * 🌍  I'm based in Berlin, Germany
+In my role as an IT Architect I am responsible for designing, describing, and managing the solution, providing guidance to the business and internal teams, including, but not limited to, EA principles and strategy, integration and architecture standards and best practices. Moreover, I'm serving as an API and integration evangelist, educating internal teams of all sizes on the value of APIs and integration best practices.  
 
 ### Skills  
 
